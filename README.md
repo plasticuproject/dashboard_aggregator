@@ -18,7 +18,7 @@ The `dashboard_aggregator` is a Rust-based tool designed to process large volume
 
 ### Prerequisites
 
-- Rust 1.8.0 or later
+- Rust 1.80 or later
 - Cargo for managing Rust packages
 
 ### Installation
